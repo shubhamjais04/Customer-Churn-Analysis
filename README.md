@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis
+#Telco Customer Churn Analysis
 
 My second data analysis project where I analyzed a telecom company's customer 
 data to understand why customers leave (churn).
@@ -68,3 +68,4 @@ Shubham Jaiswal
 - GitHub: [@shubhamjais04](https://github.com/shubhamjais04)
 
 - LinkedIn: [linkedin.com/in/shubhamjaiswal2004](https://linkedin.com/in/shubhamjaiswal2004)
+
